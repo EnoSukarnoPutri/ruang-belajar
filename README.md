@@ -1,2 +1,6 @@
-# ruang-belajar
-# ruang-belajar
+# Ruang Belajar
+
+Contributor:
+
+- `<yourname> - <id>`
+- Bob
